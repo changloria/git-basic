@@ -1,5 +1,7 @@
-Hellooo
-123
-///
-END
-123123123
+What is the difference between add, commit, and push?
+
+Add: to select and add the modified files to the queue that can be committed later on. So, files are not yet committed.
+
+Commit: to commit the modified files that have been added and created log already, so as to have a record.
+
+Push: to push the changes to the remote repository and share to other people using the same repository.
